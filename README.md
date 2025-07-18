@@ -18,7 +18,7 @@ This Power BI dashboard provides a comprehensive analysis of banking customer da
 - Power Query
 
 ## 📷 Dashboard Preview
-![Dashboard Screenshot](screenshot.png)
+![Dashboard Screenshot](bank1.png)
 
 ## 🔗 Live Report
-[Click to View on Power BI](https://app.powerbi.com/groups/me/reports/52a15260-e81d-46de-b2ec-ad24e6
+[Click to View on Power BI](https://app.powerbi.com/groups/me/reports/52a15260-e81d-46de-b2ec-ad24e6cf15b8/c8e5379b3ce7eaa04b05?experience=power-bi)
